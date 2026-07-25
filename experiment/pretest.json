@@ -1,39 +1,58 @@
+
 {
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+          "question": "1. The probability distribution which is used in the Nicholson-Bailey model is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Negative binomial distribution",
+        "b": "Poisson distribution",
+        "c": "Bernoulli distribution",
+        "d": "Geometric distribution"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+ 
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. A parasitoid is said to be the best parasitoid or it is particularly useful when it maintains its host population at:",
+      "answers": {
+        "a": "Lowest possible density",
+        "b": "Zero",
+        "c": "High density",
+        "d": "None of the above"
       },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. The negative binomial model of parasitoid-host population dynamics is developed by:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A.J. Nicholson &V.A. Bailey",
+        "b": "W. O. Kermack & A. G. McKendrick",
+        "c": "Robert May",
+        "d": "Robert MacArthur"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "4. Parasitoid-host dynamics is primarily governed by:",
+      "answers": {
+        "a": "Spatial distribution of the host",
+        "b": "Searching efficiency of the parasitoid",
+        "c": "All the above",
+        "d": "None of the above"
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
-}
+}	 
