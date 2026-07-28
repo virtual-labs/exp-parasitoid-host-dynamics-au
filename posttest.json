@@ -1,0 +1,58 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+          "question": "1. Which probability distribution is used in the negative binomial model to describe the spatial distribution of hosts?",
+      "answers": {
+        "a": "Normal distribution",
+        "b": "Binomial distribution",
+        "c": "Poisson distribution",
+        "d": "Negative binomial distribution"
+      },
+ 
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. The clumping factor (k) in the negative binomial model primarily describes the following:",
+      "answers": {
+        "a": "The carrying capacity of the habitat",
+        "b": "The reproductive rate of parasitoids",
+        "c": "The spatial aggregation (dispersion pattern) of the host population",
+        "d": "The lifespan of the parasitoid"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. Why are parasitoids considered effective biological control agents?",
+      "answers": {
+        "a": "They eliminate all insect species in an ecosystem.",
+        "b": "They readily switch to alternative host species.",
+        "c": "They are usually highly host-specific and maintain pest populations at low densities.",
+        "d": "They increase the reproductive rate of pest insects."
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "4. During the simulation, increasing the searching efficiency (a) of the parasitoid is most likely to:",
+      "answers": {
+        "a": "Increase the probability that hosts escape parasitism.",
+        "b": "Reduce the number of hosts surviving to the next generation.",
+        "c": "Eliminate the parasitoid population immediately.",
+        "d": "Increase the host reproductive rate."
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
